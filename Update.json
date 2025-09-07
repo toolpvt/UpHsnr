@@ -1,21 +1,31 @@
 {
-  "Version": "8.0",
+  "Version": "6.0",
   "Notification": "Sửa size Thông báo boss và skill thôi miên hụt khi tàn sát.",
   "Update": [
     {
-      "Name": "Assembly-CSharp.dll",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/Assembly-CSharp.dll",
-      "Path": "ClientPVT_Data\\Managed\\"
+      "Name": "toolpvt.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/Assembly-CSharp.dll",
+      "Path": "\\"
     },
     {
-      "Name": "mono.dll",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/mono.dll",
-      "Path": "ClientPVT_Data\\Mono\\"
+      "Name": "pvtclient.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/mono.dll",
+      "Path": "\\"
     },
     {
-      "Name": "AutoLinkMapsWaypoint.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/AutoLinkMapsWaypoint.txt",
-      "Path": "ClientPVT_Data\\XmapData\\"
+      "Name": "TOOL_UPSM.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/AutoLinkMapsWaypoint.txt",
+      "Path": "\\"
+    },
+    {
+      "Name": "iditem.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/iditem.txt",
+      "Path": "\\"
+    },
+    {
+      "Name": "mapid.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/mapid.txt",
+      "Path": "\\"
     }
   ]
 }
