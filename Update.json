@@ -4,17 +4,17 @@
   "Update": [
     {
       "Name": "toolpvt.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/Assembly-CSharp.dll",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/toolpvt.jar",
       "Path": "\\"
     },
     {
       "Name": "pvtclient.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/mono.dll",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/pvtclient.jar",
       "Path": "\\"
     },
     {
       "Name": "TOOL_UPSM.exe",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/AutoLinkMapsWaypoint.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/TOOL_UPSM.exe",
       "Path": "\\"
     },
     {
