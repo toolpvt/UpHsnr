@@ -160,7 +160,7 @@
 159: Map Băng 
 160: Hang động kho báu
 161: Mùa hè sôi động
-162: Trái Đất Hủy Diệt
+162: Trái Đất Huỷ Diệt
 163: Namec Thánh Kiếm
 164: Xayda Độc Tôn
 165: Bản Mơ
@@ -189,7 +189,7 @@
 188: Map 5
 189: Tầng 5
 190: Tầng 6
-191: Map sự kiện Vua Hùng
+191: Map Văn Lang
 192: Map Văn Lang 1
 193: Map Văn Lang 2
 194: Map Văn Lang 3
@@ -206,9 +206,11 @@
 205: Vùng Đất Siêu Cấp
 206: Thung Lũng Tập Sự
 207: Rồng Omega 1
-208: Đảo Rực Nắng
+208: Đảo Cô Hồn
 209: Rồng Omega 2
-210: Đảo Rực Nắng 2
+210: Đảo Cô Hồn 2
 211: Thị Trấn Ác Mộng SC
 212: Đảo Hè King Kong 1
 213: Đảo Hè King Kong 2
+214: Đấu Trường Siêu Hạng
+215: Động Phủ Yêu Thú
