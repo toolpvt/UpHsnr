@@ -131,7 +131,7 @@
 130: Đại hội võ thuật Vũ Trụ
 131: Hành Tinh Yardart
 132: Hành Tinh Yardart 2
-133: Hành Tinh Yardart 3
+133: Tàn Sát Đêm Trăng
 134: Đại hội võ thuật Vũ Trụ 6-7
 135: Động hải tặc
 136: Hang Bạch Tuộc
@@ -160,7 +160,7 @@
 159: Map Băng 
 160: Hang động kho báu
 161: Mùa hè sôi động
-162: Trái Đất Huỷ Diệt
+162: Trái Đất Hủy Diệt
 163: Namec Thánh Kiếm
 164: Xayda Độc Tôn
 165: Bản Mơ
@@ -189,7 +189,7 @@
 188: Map 5
 189: Tầng 5
 190: Tầng 6
-191: Map Văn Lang
+191: Map sự kiện Vua Hùng
 192: Map Văn Lang 1
 193: Map Văn Lang 2
 194: Map Văn Lang 3
@@ -214,3 +214,19 @@
 213: Đảo Hè King Kong 2
 214: Đấu Trường Siêu Hạng
 215: Động Phủ Yêu Thú
+216: Fide Viễn Cổ
+217: Fide Viễn Cổ
+218: Map SK Trung Thu 1
+219: Map SK Trung Thu 2
+220: Hồ câu Kòi Ốc Tiêu
+221: Pháo Đài Siêu Cấp
+222: Đêm Hội Halloween
+223: Map SK 20/11
+224: Map SK 20/11
+225: Map skill 9_1
+226: Map skill 9
+227: Map SK Noel
+228: Map SK Noel
+229: Map Boss Noel Trái Đất
+230: Map Boss Noel Namek
+231: Map Boss Noel Xayda

@@ -359,7 +359,7 @@
 358: Ngọc Rồng Namek 6 Sao - type: 11
 359: Ngọc Rồng Namek 7 Sao - type: 11
 360: Ngọc Rồng Namek - type: 11
-361: Gói 10 Rađa dò ngọc - type: 27
+361: Gói 10 Rađa dò ngọc - type: 25
 362: Hóa thạch Ngọc Rồng - type: 11
 363: Tháo cờ - type: 28
 364: Cờ xanh - type: 28
@@ -406,10 +406,10 @@
 405: Cải trang - type: 5
 406: Cải trang - type: 5
 407: Cải trang - type: 5
-408: Cải trang Chi Chi - type: 5
-409: Cải trang Bunma - type: 5
-410: Cải trang Lý tiểu nuowng - type: 5
-411: Cải trang Póc - type: 5
+408: Cải trang - type: 5
+409: Cải trang - type: 5
+410: Cải trang - type: 5
+411: Cải trang - type: 5
 412: Avatar - type: 5
 413: Avatar - type: 5
 414: Avatar - type: 5
@@ -873,16 +873,16 @@
 872: Avatar Gohan 1 - type: 5
 873: Avatar Gohan 2 - type: 5
 874: Rùa con - type: 27
-875: Cải trang Cadic tiệc bể bơi - type: 5
-876: Cải trang Gohan tiệc bể bơi - type: 5
-877: Cải trang Picolo tiệc bể bơi - type: 5
+875: Cải trang Cadic - type: 5
+876: Cải trang Gohan - type: 5
+877: Cải trang Pocolo - type: 5
 878: Cậu vàng - type: 5
 879: Cậu Kilo - type: 5
 880: Cua rang me - type: 29
 881: Bạch tuộc nướng - type: 29
 882: Tôm tẩm bột chiên xù - type: 29
 883: Cải trang Black Gohan Rose - type: 5
-884: Cải trang Hit - type: 5
+884: Cải trang Cậu Hít - type: 5
 885: Cải trang Lích Tên - type: 5
 886: Trứng vịt muối - type: 27
 887: Gà quay nguyên con - type: 27
@@ -931,7 +931,7 @@
 930: Ngọc rồng băng 6 sao - type: 12
 931: Ngọc rồng băng 7 sao - type: 12
 932: Cải trang Uub - type: 5
-933: Mảnh vỡ bông tai cấp 2 - type: 27
+933: Mảnh vỡ bông tai - type: 27
 934: Mảnh hồn bông tai - type: 27
 935: Đá xanh lam - type: 27
 936: Tuần lộc nhí - type: 18
@@ -1058,8 +1058,7 @@
 1057: Gậy pháp thuật - type: 11
 1058: Cải trang Anubis - type: 5
 1059: Cải trang Cucumber Black - type: 5
-1060: Cải trang Cucumber Gold - type: 5
-1061: Cải trang Anh Long - type: 5
+1060: Cải trang CucumberĐại Đế - type: 5
 1974: Danh hiệu Top 1 - type: 17
 1975: Danh hiệu Top 2  - type: 17
 1976: Danh hiệu Top 3  - type: 17
@@ -1101,7 +1100,7 @@
 2012: Nhẫn ánh sáng cấp 7 - type: 27
 2013: Nhẫn ánh sáng cấp 8 - type: 27
 2014: Nhẫn ánh sáng cấp 9 - type: 27
-2015: Siêu Thần Thủy - type: 27
+2015: Phẹt Phẹt - type: 27
 2016: Cải trang Fide đen - type: 5
 2017: Mèo Simi - type: 18
 2018: Mồn Lèo - type: 18
@@ -1130,8 +1129,8 @@
 2041: Cánh phù hoa - type: 11
 2042: Cỏ Mỹ - type: 27
 2043: Hoa Cưới - type: 11
-2044: Thần Thú Dragon - type: 23
-2045: Gói mảnh hồn bông tai x20 - type: 27
+2044: Thần thú Dragon - type: 23
+2045: Gói mảnh hồn bông tai c2 x20 - type: 27
 2046: Mảnh áo Trái Đất - type: 27
 2047: Mảnh áo Namec - type: 27
 2048: Mảnh áo Xayda - type: 27
@@ -1369,7 +1368,7 @@
 2280: Danh hiệu Lắm tiền nhiều của - type: 17
 2281: Danh hiệu Ông hoàng phông bạt - type: 17
 2282: Danh hiệu Phù thuỷ tài chính - type: 17
-2283: Rương 1 món huỷ diệt ngẫu nhiên max option - type: 27
+2283: Rương 1 món huỷ diệt ngẫu nhiên - type: 27
 2284: Rương set huỷ diệt max chỉ số - type: 27
 2285: Danh hiệu bang hội CVQ - type: 17
 2286: Danh hiệu bang hội GLX - type: 17
@@ -1513,7 +1512,7 @@
 2424: Cải Trang Sôngoku Rồng Đen - type: 5
 2425: Cải Trang SonGoKu Lasvegas  - type: 5
 2426: Cải Trang Sôn Goku Thế giới mới - type: 5
-2427: Songoku Kẻ Phản Diện - type: 5
+2427: Cải trang SGK SSJ 5 - type: 5
 2428: Cải trang Mitsuishi Kotono - type: 5
 2429: Cải trang Radic - type: 5
 2430: Ngọc Bội Njnja Tứ Linh - type: 26
@@ -1567,7 +1566,7 @@
 2478: Danh hiệu Top 1 Sức mạnh - type: 17
 2479: Danh hiệu Top 2 Sức mạnh - type: 17
 2480: Danh hiệu Top 3 Sức mạnh - type: 17
-2481: Thú Cưỡi Cua Nghịch Thiên - type: 23
+2481: Thú Cưỡi Con Cua - type: 23
 2482: Ngọc Bội Boy Phố - type: 26
 2483: Danh hiệu Top 1 VIP - type: 17
 2484: Danh hiệu Top 2 VIP - type: 17
@@ -1699,7 +1698,7 @@
 2610: Hộp danh hiệu - type: 27
 2611: Hào quang kiếm và phượng - type: 21
 2612: Mảnh hộp đại đệ tử - type: 27
-2613: Cải Trang Broly Triệu Tử Long - type: 5
+2613: Cải Trang Broly Rồng Đỏ - type: 5
 2614: Danh hiệu Yêu Nước - type: 17
 2615: Danh hiệu Chân Mệnh Đế Vương - type: 17
 2616: Danh hiệu Vua Về Nhì - type: 17
@@ -1806,33 +1805,12 @@
 2717: Đeo Lưng Thương Hồn U - type: 11
 2718: Pet Tiểu Ma Vương - type: 18
 2719: Hào Quang Búa Ánh Sáng - type: 21
-2720: Sách Super Kamejoko lv1 - type: 7
-2721: Sách Super Kamejoko lv2 - type: 7
-2722: Sách Super Kamejoko lv3 - type: 7
-2723: Sách Super Kamejoko lv4 - type: 7
-2724: Sách Super Kamejoko lv5 - type: 7
-2725: Sách Super Kamejoko lv6 - type: 7
-2726: Sách Super Kamejoko lv7 - type: 7
-2728: Sách Cadic lv 1 - type: 7
-2729: Sách Cadic lv 2 - type: 7
-2730: Sách Cadic lv 3 - type: 7
-2731: Sách Cadic lv 4 - type: 7
-2732: Sách Cadic lv 5 - type: 7
-2733: Sách Cadic lv 6 - type: 7
-2734: Sách Cadic lv 7 - type: 7
-2735: Sách Ma Phong Ba lv 1 - type: 7
-2736: Sách Ma Phong Ba lv 2 - type: 7
-2737: Sách Ma Phong Ba lv 3 - type: 7
-2738: Sách Ma Phong Ba lv 4 - type: 7
-2739: Sách Ma Phong Ba lv 5 - type: 7
-2740: Sách Ma Phong Ba lv 6 - type: 7
-2741: Sách Ma Phong Ba lv 7 - type: 7
 2742: Cánh 1 - type: 11
 2743: Cánh 2 - type: 11
 2744: Cánh 3 - type: 11
 2745: Cánh 4 - type: 11
 2746: Cánh 5 - type: 11
-2747: Cánh 6 - type: 11
+2747: Hắc Thiên Dực  - type: 11
 2748: Cánh 7 - type: 11
 2749: Đeo Lưng Cánh Thiên Cổ - type: 11
 2750: Đeo Lưng Cánh Phong Sắc - type: 11
@@ -1898,3 +1876,222 @@
 2810: Đeo lưng Thiên Lôi Huyết Ảnh - type: 11
 2811: Ngọc Bội Cô Hồn  - type: 26
 2812: Hào Quang Thánh Viêm - type: 21
+2813: Danh hiệu Top 1 Cày Chay - type: 17
+2814: Danh hiệu Top 2 Cày Chay - type: 17
+2815: Danh hiệu Top 3 Cày Chay - type: 17
+2816: Ván Bay Đóa Hoa Tặng Nàng - type: 23
+2817: Đeo Lưng Thanh Trúc Phong Vân Kiếm - type: 11
+2818: Cải trang Songoku Tịch Tà Kiếm Phổ - type: 5
+2819: Ánh Trăng Rằm - type: 27
+2820: Đậu Xanh - type: 27
+2821: Hộp Quà Trung Thu - type: 27
+2822: Bùa x2 - type: 29
+2823: Bùa x3 - type: 29
+2824: Bùa x5 - type: 29
+2825: Nếp Dẻo - type: 27
+2826: Thẻ Tích Điểm - type: 27
+2827: Trứng Muối - type: 27
+2829: Túi Mù Trung Thu 10 TV - type: 27
+2830: Vé Cải Trang Trung Thu - type: 27
+2831: Vé Chat Thế Giới Ngẫu Nhiên - type: 27
+2832: Vé Đeo Lưng Trung Thu - type: 27
+2833: Vé Hào Quang Đệ Tử - type: 27
+2835: Vé Pet Trung Thu - type: 27
+2836: Vé Thú Cưỡi Trung Thu - type: 27
+2837: Vé Xuyên Không - type: 27
+2838: Lồng Đèn vô cực - type: 11
+2839: Lồng đèn 2 - type: 11
+2840: Đeo Lưng Huyết Lôi Đao - type: 11
+2841: Búa - type: 11
+2842: Ván bay 1 - type: 23
+2843: Ván bay 2 - type: 23
+2844: Đeo lưng Lồng đèn ông sao - type: 11
+2845: Đeo lưng Lồng Đèn cá chép - type: 11
+2846: Hỏa Vân Dực - type: 11
+2847: Cánh Thiên Vân Dực - type: 11
+2848: Thú Cưỡi Kim Vân Lân - type: 23
+2849:  Pét Lưỡi Dài Hôi Hám - type: 18
+2850: Cải trang Fide Viễn Cổ - type: 5
+2851: Cải trang Chiller Viễn Cổ - type: 5
+2852: Ngọc Bội Trung Thu - type: 26
+2853: Thú cưỡi thuyền rồng - type: 23
+2854: Hào Quang Trung Thu - type: 21
+2855: Túi Mù Trung Thu 50 TV - type: 27
+2856: Hào quang Lửa trời  - type: 21
+2857: Vé siêu việt pet cấp 2 - type: 36
+2858: Danh hiệu chat Thánh Lùa Gà - type: 27
+2859: Danh hiệu chat Vua Chat Thế Giới - type: 27
+2860: Danh hiệu chat Trùm Làm Màu - type: 27
+2861: Danh hiệu chat Thích Var - type: 27
+2862: Danh hiệu chat Ông Hoàng Ngoại Giao - type: 27
+2863: Danh hiệu chat Chúa Tể Spam - type: 27
+2864: Pét Tề Thiên Đại Thánh - type: 18
+2865: Hào quang đệ tử  - type: 40
+2866: Bánh trung HP - type: 29
+2867: Bánh trung KI - type: 29
+2868: Bánh trung SD - type: 29
+2869: Bánh trung TNSM - type: 29
+2870: Bánh trung sát thương skill 9 - type: 29
+2871: Cải trang Tanjirou Kamado - type: 5
+2872: Cải trang Inosuke Hashibira - type: 5
+2873: Cải trang Inosuke ko mũ - type: 5
+2874: Cải trang nezuko - type: 5
+2875: Cải trang Zanitsu - type: 5
+2876: Chiến Hạm Santa - type: 23
+2877: Cần câu cá - type: 11
+2878: Cá Mập Đầu Búa - type: 27
+2879: Cá Rồng - type: 27
+2880: Cá Trê - type: 27
+2881: Cá Lóc Bông - type: 27
+2882: Cá Lòng Tong - type: 27
+2883: Mồi cám trộn - type: 27
+2884: Mồi giun đất - type: 27
+2885: Móc câu lure VIP - type: 27
+2886: Vé x5 sát thương skill 9 - type: 29
+2887: Vé x10 sát thương tự sát - type: 29
+2888: Vé x10 sát thương QCKK - type: 29
+2889: Vé câu đổi quà - type: 27
+2890: Capsule item cấp 1 - type: 27
+2891: Capsule item cấp 2 - type: 27
+2892: Songoku Vô Cực - type: 5
+2893: Songoku Cực Hạn - type: 5
+2894: Cải Trang Songoku Long Thần - type: 5
+2895: Cải Trang Black Goku Sát Thần - type: 5
+2896: Cải trang hợp thể Songoku Tịch Tà Kiếm Phổ - type: 5
+2897: Danh hiệu Top 1 Vòng Quay Trung Thu - type: 17
+2898: Danh hiệu Top 2 Vòng Quay Trung Thu - type: 17
+2899: Danh hiệu Top 3 Vòng Quay Trung Thu - type: 17
+2900: Danh hiệu Top 1 Vip Server - type: 17
+2901: Danh hiệu Top 2 Vip Server - type: 17
+2902: Danh hiệu Top 3 Vip Server - type: 17
+2903: Hào Quang Lửa Ngũ Sắc - type: 21
+2904: Hào quang đệ tử  - type: 40
+2905: Ngọc Bội Trung Thu - type: 26
+2906: Linh Thú Mồn Lèo - type: 19
+2907: Danh Hiệu Vua Câu Cá - type: 17
+2908: Danh Hiệu Thánh Phá Mồi - type: 17
+2909: Danh Hiệu Kẻ Săn Thủy Quái - type: 17
+2910: Ngọc Bội Cá Vàng - type: 26
+2911: Đôi Cánh Biển Sâu - type: 11
+2912: Thú Cưỡi Pika Thần Long - type: 23
+2914: Hộp Quà Halloween - type: 27
+2915: Cải trang Mabu Halloween - type: 5
+2916: Thú cưỡi halloween - type: 23
+2917: Đeo Lưng Lồng Đèn Hallowen - type: 11
+2918: Linh Thú Halloween - type: 19
+2919: Ngọc Bội Bí Ngô Hallowen - type: 26
+2920: Pét bí ngô Hallowen  - type: 18
+2921: Cải trang Trunks Mắt Đỏ - type: 5
+2922: Cải trang Gohan xác sống - type: 5
+2923: Ngọc rồng Halloween 1 sao - type: 27
+2924: Ngọc rồng Halloween 2 sao - type: 27
+2925: Ngọc rồng Halloween 3 sao - type: 27
+2926: Ngọc rồng Halloween 4 sao - type: 27
+2927: Ngọc rồng Halloween 5 sao - type: 27
+2928: Ngọc rồng Halloween 6 sao - type: 27
+2929: Ngọc rồng Halloween 7 sao - type: 27
+2930: Danh Hiệu Bóng Ma Halloween - type: 17
+2931: Vé Đêm Hội Halloween - type: 27
+2932: Thú cưỡi dơi vàng 1 mắt - type: 23
+2933: Dơi Đỏ - type: 19
+2934: Hào Quang Sư Phụ hallowen - type: 21
+2935: Hào quang Đệ tử Hallowen - type: 40
+2936: Ngọc Bội Hallowen - type: 26
+2937: Danh hiệu Top 1 Sức Mạnh tháng 11 - type: 17
+2938: Danh hiệu Top 2 Sức Mạnh tháng 11 - type: 17
+2939: Danh hiệu Top 3 Sức Mạnh tháng 11 - type: 17
+2940: Danh hiệu Top 1 Nhiệm Vụ tháng 11 - type: 17
+2941: Danh hiệu Top 2 Nhiệm Vụ tháng 11 - type: 17
+2942: Danh hiệu Top 3 Nhiệm Vụ tháng 11 - type: 17
+2943: Đeo Lưng Linh Hồn Lửa - type: 11
+2944: Đeo Lưng Người Lửa - type: 11
+2945: Bạch Tuộc - type: 27
+2946: Cá Basa - type: 27
+2947: Cá Đuối - type: 27
+2948: Cá Rô Đồng - type: 27
+2949: Cá Tầm - type: 27
+2950: Hoa Hồng Vip - type: 27
+2951: Hoa Nguyệt Quế - type: 27
+2952: Mồi Bánh Mỳ - type: 27
+2953: Mồi Mực Giả - type: 27
+2954: Mồi Trứng Kiến - type: 27
+2955: Vé Cải Trang 20/11 - type: 27
+2956: Vé Đeo Lưng 20/11 - type: 27
+2957: Vé Hào Quang Đệ Tử 20/11 - type: 27
+2958: Vé Pet 20/11 - type: 27
+2959: Vé Thú Cưỡi 20/11 - type: 27
+2960: Vé Câu Đổi Quà 20/11 - type: 27
+2961: Pét Anh Shipper Thân Thiện  - type: 18
+2962: Cần Câu Cá 20/11 - type: 11
+2963: Bó Hoa Lụa Thánh - type: 11
+2964: Đeo Lưng Thánh Quang Dực - type: 11
+2965: Hào Quang Sư Phụ 20/11 - type: 21
+2966: Hào quang Đệ tử 20/11 - type: 40
+2967: Cải trang váy trắng - type: 5
+2968: Tiểu Linh Tử  - type: 5
+2969: Tàu Bay Quy Lão - type: 23
+2970: Vé x5 sát thương skill 9 - type: 29
+2971: Vé x10 sát thương tự sát - type: 29
+2972: Vé x10 sát thương QCKK - type: 29
+2973: Thú cưỡi Bé Sấm - type: 23
+2974: Thú Cưởi Tên Lửa Uron  - type: 23
+2975: Mảnh áo hủy diệt - type: 27
+2976: Mảnh găng hủy diệt - type: 27
+2977: Mảnh giày hủy diệt - type: 27
+2978: Mảnh nhẫn hủy diệt - type: 27
+2979: Mảnh quần hủy diệt - type: 27
+2980: Đá Hồn thiên đế cấp 7 - type: 27
+2981: Đá Hồn thiên đế cấp 8 - type: 27
+2982: Đá Hồn thiên đế cấp 9 - type: 27
+2983:  Cải Trang Tiểu Chi Chi - type: 5
+2984: Danh hiệu Top 1 Whis Liên Server - type: 17
+2985: Danh hiệu Top 2 Whis Liên Server - type: 17
+2986: Danh hiệu Top 3 Whis Liên Server - type: 17
+2987: Danh hiệu Top 4 Whis Liên Server - type: 17
+2988: Goku Hoàng Giả - type: 5
+2989: Calich Du Học Sinh - type: 5
+2990: Goku Cuồng Bạo - type: 5
+2991: Thú Cưỡi Phượng Hoàng Băng  - type: 23
+2992: Thú Cưỡi Thiên Thần HSNR - type: 23
+2993: Danh hiệu Top Sát Thủ Biển Sâu - type: 17
+2994: Danh hiệu Bóng Ma Ven Biển
+ - type: 17
+2995: Danh hiệu Top Chúa Tể Đầm Lầy - type: 17
+2996: Danh hiệu Top 1 Vòng Quay 20/11 - type: 17
+2997: Danh hiệu Top 2 Vòng Quay 20/11 - type: 17
+2998: Danh hiệu Top 3 Vòng Quay 20/11 - type: 17
+2999: Ngọc Bội Song Lưu - type: 26
+3000: Hào Quang Sư Phụ Top Vòng quay - type: 21
+3001: Hào Quang Sói Xanh - type: 21
+3002: Goku Vô Cực - type: 5
+3003: Radic - type: 5
+3004: Goju Satoru - type: 5
+3005: Goku ssj 5 - type: 5
+3006: Tượng Phật - type: 27
+3007: Danh Hiệu Top 1 Siêu Cấp Liên Server - type: 17
+3008: Danh Hiệu Top 2 Siêu Cấp Liên Server - type: 17
+3009: Danh hiệu Top 1 Whis Siêu Cấp Liên Server - type: 17
+3010: Danh hiệu Top 2 Whis Siêu Cấp Liên Server - type: 17
+3011: Danh hiệu Top 3 Whis Siêu Cấp Liên Server - type: 17
+3012: Ngọc Bội Siêu Cấp Liên Sever - type: 26
+3013: Đeo Lưng Gậy Phép Màu Noel - type: 11
+3014: Đeo Lưng Phong Lôi Thần Dực - type: 11
+3015: Thú Cưỡi Phi Cơ Tuyết Siêu Tốc - type: 23
+3016: Pét Hokage Noel - type: 18
+3017: Cải Trang Noel Tiểu Pan - type: 5
+3018: Cải Trang Mabu Noel - type: 5
+3019: Vé Cải Trang Noel - type: 27
+3020: Vé Đeo Lưng Noel - type: 27
+3021: Vé Pét Noel - type: 27
+3022: Vé Thú Cưỡi Noel - type: 27
+3023: Bông Tuyết - type: 27
+3024: Hộp Quà Noel - type: 27
+3025: Tất Ông Già Noel - type: 27
+3026: Thiệp Giáng Sinh Vip - type: 27
+3027: Thiệp Giáng Sinh - type: 27
+3028: Vé x2 Sát Thương Skill 9 - type: 27
+3029: Vé x5 Sát Thương Skill 9 - type: 27
+3030: Thú Cưỡi Phi Cơ Merry Xmas - type: 23
+3031: Hào Quang Sư Phụ Vòng Quay Noel - type: 21
+3032: Vé Hào Quang Đệ Tử Noel - type: 27
+3033: Hào quang Đệ tử Noel - type: 40
